@@ -1,0 +1,1 @@
+aws s3 sync ~/git/workspace/demo-tx-signup s3://demo.opzoom.com --acl public-read --delete

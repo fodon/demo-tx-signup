@@ -1,0 +1,689 @@
+﻿CaseType: gc-citizen-spouse
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: husband / wife
+
+Q: Can you provide documentation to prove the marriage is recognized by the government where the marriage took place? (Such as a marriage certificate.)
+A: yes
+
+Q: Have the beneficiary or the sponsor been married before the marriage between the beneficiary and the sponsor?
+A: no
+
+Q: Is the sponsor currently alive?
+A: yes
+
+.....................
+
+Documents Required
+Proof of petitioner’s status
+☐ If American citizen through birth—copy of birth certificate and/or copy of U.S. passport
+
+Proof of beneficiary’s status 
+☐ Copy of birth certificate
+☐ Copy of all passport pages
+☐ Copy of I-94 (if applicable) or any other records of entry 
+
+Additional documents
+☐ Certified copy of marriage certificate
+☐ 6 original passport-style photos of the beneficiary, taken within 30 days of filing date, with name printed on the back of each photo
+☐ 2 original passport-style photos of the petitioner
+☐ Copies of 3 most recent tax returns with W-2s/paystubs OR official IRS transcripts
+☐ Employment verification letter from the petitioner’s employer
+☐ Immunization history (bring to medical exam) - will discuss that later 
+
+Evidence 
+Include as much evidence as possible to prove that your marriage is legitimate. You do not need to include every item on the list, but more information will strengthen your application.
+☐ The spouse’s driver’s licenses with matching addresses
+☐ Most recent bank statement with both spouse’s names
+☐ Property registered in the spouse’s names
+☐ Lease or mortgage with both spouse’s signatures
+☐ Utility bills with both spouse’s names and matching address
+☐ Insurance policies with both spouse’s names
+☐ Receipts for expensive items purchased together
+☐ Affidavits from friends, family, colleagues that can confirm that you are married
+☐ Postmarked envelopes and letters from family regarding knowledge of marriage
+☐ Wedding pictures or family photos—2 copies with the date, occasion, and location on the back of each photo
+☐ Certified copies of any children’s birth certificates
+☐ Cards or letters to or from the petitioner and beneficiary
+☐ Email exchange between the couple
+☐ Phone records between couple
+
+
+Preference category
+IR1 or CR1 Immediate family - unlimited number of immigrant visas petitions per year. 
+USCIS Forms
+I-130 $535
+I-130a
+I-485 $1140 + 85 biometric services fee
+I-864
+I-765 optional 
+
+Other Notes (if any)
+
++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-citizen-spouse-dead
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: husband / wife
+
+Q: Can you provide documentation to prove the marriage is recognized by the government where the marriage took place? (Such as a marriage certificate.)
+A: yes
+
+Q: Have the beneficiary or the sponsor been married before the marriage between the beneficiary and the sponsor?
+A: no
+
+Q: Is the sponsor currently alive?
+A: no
+
+Q: Did the sponsor die less than 2 years back?
+A: yes
+
+.....................
+
+Documents Required
+- Proof of your late spouse’s U.S. citizenship
+- A copy of your marriage certificate to your late spouse 
+- Proof you or your late spouse terminated any prior marriages (if applicable)
+- A copy of your late spouse’s death certificate  
+
+Proof of beneficiary’s status 
+☐ Copy of birth certificate
+☐ Copy of all passport pages
+☐ Copy of I-94 (if applicable) or any other records of entry 
+Additional documents
+☐ 6 original passport-style photos of the beneficiary, taken within 30 days of filing date, with name printed on the back of each photo
+☐ Copies of 3 most recent tax returns with W-2s/paystubs OR official IRS transcripts (if applicable)
+☐ Employment verification letter from the petitioner’s employer☐ If previously married—certified copy of divorce documents or spouse’s death certificate
+☐ Immunization history (bring to medical exam) - will discuss that later 
+Evidence of bona fide marriage to the late spouse such as:
+Include as much evidence as possible to prove that your marriage is legitimate. You do not need to include every item on the list, but more information will strengthen your application.
+☐ The spouse’s driver’s licenses with matching addresses
+☐ Bank statement with both spouse’s names
+☐ Property registered in the spouse’s names
+☐ Lease or mortgage with both spouse’s signatures
+☐ Utility bills with both spouse’s names and matching address
+☐ Insurance policies with both spouse’s names
+☐ Receipts for expensive items purchased together
+☐ Affidavits from friends, family, colleagues that can confirm that you were married
+☐ Postmarked envelopes and letters from family regarding knowledge of marriage
+☐ Wedding pictures or family photos—2 copies with the date, occasion, and location on the back of each photo
+☐ Certified copies of any children’s birth certificates
+☐ Cards or letters to or from the petitioner and beneficiary
+☐ Email exchange between the couple
+☐ Phone records between couple
+Preference category
+IR1 or CR1 Immediate family
+USCIS Forms
+I-360 $435
+I-485 I-485 $1140 + 85 biometric services fee
+I-765 optional 
+
+Other Notes (if any)
+VERY IMPORTANT - IF THE BENEFICIARY RE-MARRIED THEN HE/SHE CANNOT FILE A PETITION UNDER THIS CATEGORY 
+
++++++++++++++++++++++++++++++++++++++++++
+CaseType: gc-citizen-spouse-second
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: husband / wife
+
+Q: Can you provide documentation to prove the marriage is recognized by the government where the marriage took place? (Such as a marriage certificate.)
+A: yes
+
+Q: Have the beneficiary or the sponsor been married before the marriage between the beneficiary and the sponsor?
+A: yes
+
+Q: Is the sponsor currently alive?
+A: yes
+
+.....................
+
+Documents Required
+
+Proof of petitioner’s status
+☐ If American citizen through birth—copy of birth certificate and/or copy of U.S. passport
+Proof of beneficiary’s status 
+☐ Copy of birth certificate
+☐ Copy of all passport pages
+☐ Copy of I-94 (if applicable) or any other records of entry 
+Additional documents
+☐ Certified copy of current marriage certificate and prior copies of prior marriage/es and divorce decree/s for both paries (if applicable) along with certified translation for non-english documents
+☐ 6 original passport-style photos of the beneficiary, taken within 30 days of filing date, with name printed on the back of each photo
+☐ 2 original passport-style photos of the petitioner
+☐ Copies of 3 most recent tax returns with W-2s/paystubs OR official IRS transcripts
+☐ Employment verification letter from the petitioner’s employer
+☐ If previously married—certified copy of divorce documents or spouse’s death certificate
+☐ Immunization history (bring to medical exam) - will discuss that later 
+Evidence 
+Include as much evidence as possible to prove that your marriage is legitimate. You do not need to include every item on the list, but more information will strengthen your application.
+☐ The spouse’s driver’s licenses with matching addresses
+☐ Most recent bank statement with both spouse’s names
+☐ Property registered in the spouse’s names
+☐ Lease or mortgage with both spouse’s signatures
+☐ Utility bills with both spouse’s names and matching address
+☐ Insurance policies with both spouse’s names
+☐ Receipts for expensive items purchased together
+☐ Affidavits from friends, family, colleagues that can confirm that you are married
+☐ Postmarked envelopes and letters from family regarding knowledge of marriage
+☐ Wedding pictures or family photos—2 copies with the date, occasion, and location on the back of each photo
+☐ Certified copies of any children’s birth certificates
+☐ Cards or letters to or from the petitioner and beneficiary
+☐ Email exchange between the couple
+☐ Phone records between couple
+
+
+Preference category
+IR1 or CR1 Immediate family - unlimited number of immigrant visas petitions per year. 
+USCIS Forms
+I-130 $535
+I-130a
+I-485 $1140 + 85 biometric services fee
+I-864
+I-765 optional 
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-citizen-spouse-dead
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: husband / wife
+
+Q: Can you provide documentation to prove the marriage is recognized by the government where the marriage took place? (Such as a marriage certificate.)
+A: yes
+
+Q: Have the beneficiary or the sponsor been married before the marriage between the beneficiary and the sponsor?
+A: yes
+
+Q: Is the sponsor currently alive?
+A: no
+
+Q: Did the sponsor die less than 2 years back?
+A: yes
+
+.....................
+
+Documents Required
+- Proof of your late spouse’s U.S. citizenship
+- A copy of your marriage certificate to your late spouse 
+- Proof you or your late spouse terminated any prior marriages (if applicable)
+- A copy of your late spouse’s death certificate  
+
+Proof of beneficiary’s status 
+☐ Copy of birth certificate
+☐ Copy of all passport pages
+☐ Copy of I-94 (if applicable) or any other records of entry 
+Additional documents
+☐ Certified copy of divorce documents or spouse’s death certificate
+☐ 6 original passport-style photos of the beneficiary, taken within 30 days of filing date, with name printed on the back of each photo
+☐ Copies of 3 most recent tax returns with W-2s/paystubs OR official IRS transcripts (if applicable)
+☐ Employment verification letter from the petitioner’s employer☐ If previously married—certified copy of divorce documents or spouse’s death certificate
+☐ Immunization history (bring to medical exam) - will discuss that later 
+Evidence of bona fide marriage to the late spouse such as:
+Include as much evidence as possible to prove that your marriage is legitimate. You do not need to include every item on the list, but more information will strengthen your application.
+☐ The spouse’s driver’s licenses with matching addresses
+☐ Bank statement with both spouse’s names
+☐ Property registered in the spouse’s names
+☐ Lease or mortgage with both spouse’s signatures
+☐ Utility bills with both spouse’s names and matching address
+☐ Insurance policies with both spouse’s names
+☐ Receipts for expensive items purchased together
+☐ Affidavits from friends, family, colleagues that can confirm that you were married
+☐ Postmarked envelopes and letters from family regarding knowledge of marriage
+☐ Wedding pictures or family photos—2 copies with the date, occasion, and location on the back of each photo
+☐ Certified copies of any children’s birth certificates
+☐ Cards or letters to or from the petitioner and beneficiary
+☐ Email exchange between the couple
+☐ Phone records between couple
+Preference category
+IR1 or CR1 Immediate family
+USCIS Forms
+I-360 $435
+I-485 I-485 $1140 + 85 biometric services fee
+I-765 optional 
+
+Other Notes (if any)
+VERY IMPORTANT - IF THE BENEFICIARY RE-MARRIED THEN HE/SHE CANNOT FILE A PETITION UNDER THIS CATEGORY 
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-citizen-spouse-unmarried
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: husband / wife
+
+Q: Can you provide documentation to prove the marriage is recognized by the government where the marriage took place? (Such as a marriage certificate.)
+A: no
+
+.....................
+
+Documents Required
+
+Preference category
+
+USCIS Forms
+
+Other Notes (if any)
+To qualify for a marriage-based visa or green card, you must be legally married. 
+A legal marriage is one that is officially recognized by the government in the country or state where you were married. 
+This usually means that an official record of your marriage has been made or can be obtained from some public office. 
+If that document is not available, then the Petitioner and Beneficiary are NOT LEGALLY MARRIED, thus cannot file an application for a green card based on marriage. 
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-citizen-child-marriage
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: son / daughter
+
+Q: Is the child under 21 years old?
+A: yes
+
+Q: How is the child related to the sponsor?
+A: natural born to sponsor
+
+Q: Was the child born in a marriage where the sponsor is a spouse?
+A: yes
+
+.....................
+
+Documents Required
+Evidence of the parent U.S. citizenship:
+A copy of your U.S. birth certificate OR
+A copy of your unexpired U.S. passport OR
+A copy of Consular Report of Birth Abroad OR
+A copy of your naturalization certificate OR
+A copy of your certificate of citizenship
+A copy of your child’s birth certificate issued by civil authorities
+A copy of your marriage certificate to the child’s or a genetic or legal gestational mother
+If you and/or the genetic or legal gestational mother are no longer married, 
+you must also submit evidence of the legal termination of that marriage through death, divorce, or annulment
+If your name or your child’s name has changed, proof of legal name change 
+(may include marriage certificate, divorce decree, adoption decree, court judgment of name change, etc.)
+Preference category
+immediate family 
+USCIS Forms
+I-130 $535
+
+Other Notes (if any)
+If you are a U.S. citizen, once you file Form I-130, your child is eligible to apply for a nonimmigrant K-4 visa. 
+This will entitle him or her to come to the United States to live and work or go to school while the visa petition is pending. 
+To petition for this benefit, you may file Form I-129F. However, you are not required to file Form I-129F and your child does not require a K-4 visa. 
+Your child may wait abroad for immigrant visa processing. 
+Seeking a K-4 visa can be a method for him or her to come to the United States more quickly
++++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-citizen-child-biological
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: son / daughter
+
+Q: Is the child under 21 years old?
+A: yes
+
+Q: How is the child related to the sponsor?
+A: natural born to sponsor
+
+Q: Was the child born in a marriage where the sponsor is a spouse?
+A: no
+
+.....................
+
+Documents Required
+Evidence of the parent U.S. citizenship:
+A copy of your U.S. birth certificate OR
+A copy of your unexpired U.S. passport OR
+A copy of Consular Report of Birth Abroad OR
+A copy of your naturalization certificate OR
+A copy of your certificate of citizenship
+A copy of your child’s birth certificate issued by civil authorities
+A copy of your marriage certificate to the child’s or a genetic or legal gestational mother
+If you and/or the genetic or legal gestational mother are no longer married, 
+you must also submit evidence of the legal termination of that marriage through death, divorce, or annulment
+If your name or your child’s name has changed, proof of legal name change 
+(may include marriage certificate, divorce decree, adoption decree, court judgment of name change, etc.)
+Preference category
+immediate family 
+USCIS Forms
+I-130 $535
+
+Other Notes (if any)
+If you are a U.S. citizen, once you file Form I-130, your child is eligible to apply for a nonimmigrant K-4 visa. 
+This will entitle him or her to come to the United States to live and work or go to school while the visa petition is pending. 
+To petition for this benefit, you may file Form I-129F. However, you are not required to file Form I-129F and your child does not require a K-4 visa. 
+Your child may wait abroad for immigrant visa processing. 
+Seeking a K-4 visa can be a method for him or her to come to the United States more quickly
+IMPORTANT: If your child is not legitimated under the law, you must submit evidence that you established a bona fide father-child relationship prior to the child turning 21 or marrying. 
+This should be evidence of emotional and/or financial involvement in the child’s life.
+
+
+
++++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-citizen-child-step
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: son / daughter
+
+Q: Is the child under 21 years old?
+A: yes
+
+Q: How is the child related to the sponsor?
+A: step child
+
+.....................
+
+Documents Required
+Evidence of the STEP-parent U.S. citizenship:
+A copy of your U.S. birth certificate OR
+A copy of your unexpired U.S. passport OR
+A copy of Consular Report of Birth Abroad OR
+A copy of your naturalization certificate OR
+A copy of your certificate of citizenship
+A copy of your child’s birth certificate issued by civil authorities
+A copy of your marriage certificate to the child’s or a genetic or legal gestational mother
+If you and/or the genetic or legal gestational mother are no longer married, 
+you must also submit evidence of the legal termination of that marriage through death, divorce, or annulment
+If your name or your child’s name has changed, proof of legal name change 
+(may include marriage certificate, divorce decree, adoption decree, court judgment of name change, etc.)
+
+Preference category
+immediate family 
+
+USCIS Forms
+I-130 $535
+A copy of your step-child’s birth certificate issued by civil authorities
+A copy of your civil marriage certificate to your step-child’s genetic or legal gestational parent
+Proof of the legal termination of all previous marriages for you and/or the genetic parent or legal gestational mother 
+(divorce decree, death certificate, annulment decree)
+
+
+Other Notes (if any)
+
++++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-citizen-child-adopted
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: son / daughter
+
+Q: Is the child under 21 years old?
+A: yes
+
+Q: How is the child related to the sponsor?
+A: adopted
+
+.....................
+
+Documents Required
+Evidence of the ADOPTIVE parent U.S. citizenship:
+A copy of your U.S. birth certificate OR
+A copy of your unexpired U.S. passport OR
+A copy of Consular Report of Birth Abroad OR
+A copy of your naturalization certificate OR
+A copy of your certificate of citizenship
+A copy of your child’s birth certificate issued by civil authorities
+Copy of child’s original birth certificate
+Copy of the final adoption decree
+Evidence that you had 2 years of legal custody (this could have been awarded by a court prior to the final adoption decree)
+Evidence that you had 2 years of physical custody (this means time during which the child was living with you and you were exercising primary parental control)
+If your name or your child’s name has changed, proof of legal name change 
+(may include marriage certificate, divorce decree, adoption decree, court judgment of name change, etc.)
+
+Preference category
+First preference (F1)
+USCIS Forms
+I-130 $535
+
+Other Notes (if any)
+
++++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-citizen-child
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: son / daughter
+
+Q: Is the child under 21 years old?
+A: no
+
+.....................
+
+Documents Required
+Evidence of the parent U.S. citizenship:
+A copy of your U.S. birth certificate OR
+A copy of your unexpired U.S. passport OR
+A copy of Consular Report of Birth Abroad OR
+A copy of your naturalization certificate OR
+A copy of your certificate of citizenship
+A copy of your child’s birth certificate issued by civil authorities
+A copy of your marriage certificate to the child’s or a genetic or legal gestational mother
+If you and/or the genetic or legal gestational mother are no longer married, 
+you must also submit evidence of the legal termination of that marriage through death, divorce, or annulment
+If your name or your child’s name has changed, proof of legal name change 
+(may include marriage certificate, divorce decree, adoption decree, court judgment of name change, etc.)
+Preference category
+First preference (F1) - unmarried sons and daughters, 21 years of age and older, of U.S. citizens;
+USCIS Forms
+I-130 $535
+Other Notes (if any)
+Note that filing Form I-130 only starts the immigration process for a U.S. citizen’s son or daughter. 
+Such a person will be considered a “preference relative” (unlike, for instance, the spouse or unmarried child under 21 of a U.S. citizen, who is an “immediate relative”). Preference relatives, unlike immediate relatives, face annual quotas on the number of visas (green cards) 
+given out, and thus may have to wait years after approval of their I-130 for a visa to become available and to continue with their green card application.
++++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-citizen-sib
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: brother / sister
+
+.....................
+
+Documents Required
+U.S. Petitioner:
+A copy of your birth certificate and a copy of your sibling's birth certificate showing that you have at least one common parent.
+Evidence that you are a U.S. citizen, such as: 
+A copy of your valid U.S. passport, OR
+A copy of your U.S. birth certificate, OR
+A copy of Consular Report of Birth Abroad, OR
+A copy of your naturalization certificate, OR
+A copy of your certificate of citizenship 
+Preference category
+Fourth preference (F4) - brothers and sisters of U.S. citizens (if the U.S. citizen is 21 years of age and older)
+USCIS Forms
+I-130 $535
+Other Notes (if any)
+
++++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-citizen-parent
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: mother / father
+
+Q: Is the sponsor over 21 years old ?
+A: yes
+
+.....................
+
+Documents Required
+mother lives outside the United States:
+A copy of your birth certificate showing your name and your mother’s name
+A copy of your Certificate of Naturalization or U.S. passport if you were not born in the United States
+father lives outside the United States:	
+A copy of your birth certificate showing your name and the names of both parents
+A copy of your Certificate of Naturalization or Citizenship or U.S. passport if you were not born in the United States
+A copy of your parents’ civil marriage certificate
+
+Additional documents:
+You should submit the following documentation and evidence to apply for a Green Card as an immediate relative who is already in the United States:
+
+Form I-485, Application to Register Permanent Residence or Adjust Status;
+Copy of the Form I-797, Approval or Receipt Notice, for the Form I-130 petition filed on your behalf (unless you are filing Form I-485 together with the Form I-130);
+Two passport-style photographs;
+Copy of your government-issued identity document with photograph;
+Copy of your birth certificate;
+Copy of your passport page with nonimmigrant visa (if applicable);
+Copy of your passport page with your admission  or parole stamp (issued by a U.S. immigration officer) (if applicable);
+Copy of Form I-94, Arrival/Departure Record or copy of the U.S. Customs and Border Protection (CBP) admission or parole stamp on the travel document (if applicable)  
+Note: If CBP provided you with an electronic Form I-94 upon your arrival/admission to the United States, you may print out a paper version of the Form I-94 from the CBP website at www.cbp.gov/I94;
+Form I-864, Affidavit of Support Under Section 213A of the INA or Form I-864EZ, Affidavit of Support Under Section 213A of the Act or Form I-864W, Intending Immigrant’s Affidavit of Support Exemption (whichever applies);
+Form I-693, Report of Medical Examination and Vaccination Record (you may submit this form together with Form I-485 or later, such as by mail when we request it or in person at your interview, if any);
+Certified police and court records of all criminal charges, arrests, or convictions regardless of final disposition (if applicable);
+Preference category
+immediate relative 
+USCIS Forms
+I-130 $535 
+I-485 $1140 + $85 biometrics (I-485 ONLY if the parent is already in the U.S.)
+Other Notes (if any)
+
++++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-citizen-fiance
+
+Q: What the immigration status of the sponsor ?
+A: citizen
+
+Q: How is the beneficiary related to the sponsor?
+A: fiance / fiancee
+
+.....................
+
+Documents Required
+Evidence of your U.S. citizenship:
+A copy of your birth certificate, issued by a civil registrar, vital statistics office, or other civil authority showing you were born in the United States; 
+A copy of your naturalization or citizenship certificate issued by USCIS or the former Immigration and Naturalization Service (INS); 
+A copy of Form FS-240, Consular Report of Birth Abroad (CRBA), issued by a U.S. Embassy or U.S. Consulate; 
+A copy of your unexpired U.S. passport; or 
+An original statement from a U.S. consular officer verifying you are a U.S. citizen with a valid passport.
+Evidence you or your fiancé legally terminated any previous marriages (if applicable)
+Divorce decree
+Annulment order
+Death certificate for prior spouse
+One color passport-style photograph of yourself and one for your fiancé taken within 30 days of you filing this petition 
+Evidence of legal name change (if applicable)
+Preference category
+fiance visa
+USCIS Forms
+I-129F $535 
+Other Notes (if any)
+IMPORTANT: Provide Evidence you and your fiancé(e) intend to marry within 90 days of their admission into the United States as a K-1 nonimmigrant.
+
++++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-pr-spouse
+
+Q: What the immigration status of the sponsor ?
+A: permanent resident
+
+Q: How is the beneficiary related to the sponsor?
+A: husband / wife
+
+.....................
+
+Documents Required
+A copy (front and back) of Form I-551 (green card) OR
+A copy of your foreign passport bearing a stamp showing temporary evidence of permanent residence
+A copy of your civil marriage certificate
+A copy of all divorce decrees, death certificates, 
+or annulment decrees that demonstrate that all previous marriages entered into by you and/or your spouse were terminated
+Passport style photos of you and your spouse 
+Evidence of all legal name changes for you and/or your spouse 
+(may include marriage certificates, divorce decrees, court judgment of name change, adoption decrees, etc.)
+
+Preference category
+Second preference (F2A) - spouses and children (unmarried and under 21 years of age) of lawful permanent residents;
+
+USCIS Forms
+I-130 $535
+Other Notes (if any)
+
++++++++++++++++++++++++++++++++++++++++++++
+
+CaseType: gc-pr-child
+
+Q: What the immigration status of the sponsor ?
+A: permanent resident
+
+Q: How is the beneficiary related to the sponsor?
+A: son / daughter
+
+Q: Is the child married ?
+A: no
+
+.....................
+
+Documents Required
+A copy (front and back) of Form I-551 (green card) OR
+A copy of your foreign passport bearing a stamp showing temporary evidence of permanent residence.
+If your name or your child’s name has changed, proof of legal name change 
+(may include marriage certificate, divorce decree, adoption decree, court judgment of name change, etc.)
+Proof of relationship
+IMPORTANT:
+Genetic mother or a non-genetic legal gestational mother:	
+A copy of your child’s birth certificate issued by civil authorities
+Genetic father:	
+A copy of your child’s birth certificate issued by civil authorities
+A copy of your marriage certificate to the child’s or a genetic or legal gestational mother
+If you and/or the genetic or legal gestational mother are no longer married, you must also submit evidence of the legal termination of that marriage through death, divorce, or annulment.
+If you never married the child’s mother before the child turned 18:
+If the law of your or your child’s residence considers the child legitimated, you do not need to provide additional information
+If your child is not legitimated under the law, you must submit evidence that you established a bona fide father-child relationship prior to the child turning 21 or marrying. This should be evidence of emotional and/or financial involvement in the child’s life.
+Step-parent (step-mother or step-father)	 
+A copy of your step-child’s birth certificate issued by civil authorities
+A copy of your civil marriage certificate to your step-child’s genetic or legal gestational parent
+Proof of the legal termination of all previous marriages for you and/or the genetic parent or legal gestational mother (divorce decree, death certificate, annulment decree)
+Adoptive parent (adoptive mother or adoptive father)	
+Copy of child’s original birth certificate
+Copy of the final adoption decree
+Evidence that you had 2 years of legal custody (this could have been awarded by a court prior to the final adoption decree)
+Evidence that you had 2 years of physical custody (this means time during which the child was living with you and you were exercising primary parental control)
+
+Preference category
+Second preference (F2A) - spouses and children (unmarried and under 21 years of age) of lawful permanent residents;
+
+USCIS Forms
+I-130  $535
+Other Notes (if any)
+
++++++++++++++++++++++++++++++++++++++++++++
+

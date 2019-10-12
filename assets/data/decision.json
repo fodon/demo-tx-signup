@@ -1,0 +1,143 @@
+{
+  "question": "What the immigration status of the sponsor ?",
+  "answer": {
+    "citizen": {
+      "uuid":"b5015815-28bb-4547-8a5c-8941ffb9f494",
+      "question": "How is the beneficiary related to the sponsor?",
+      "answer": {
+        "husband / wife": {
+          "uuid":"8a73efa8-9640-46bd-810b-fa5c4fc48810",
+          "question": "Is the sponsor currently alive?",
+          "answer": {
+            "yes": {
+              "uuid":"681d2b62-7443-4ffe-b477-f87c7aaec0d4",
+              "Eligible": "Yes",
+              "case": "gc-citizen-spouse"
+            },
+            "no": {
+              "uuid":"565548d1-c150-4aa3-82d0-a0b1438c88fe",
+              "question": "Did the sponsor die less than 2 years back?",
+              "answer": {
+                "yes": {
+                  "uuid":"47997a12-b724-4a8e-ae32-1d54672bdb2a",
+                  "Eligible": "Yes",
+                  "case": "gc-citizen-spouse-dead"
+                },
+                "no": {
+                  "uuid":"30eb3e13-288e-4150-9ea2-ffd0cf84902a",
+                  "Eligible":"No"
+                }
+              }
+            }
+          }
+        },
+        "son / daughter": {
+          "uuid":"bb70f95e-4d29-44fd-bc93-52dd67386c89",
+          "question": "Is the child under 21 years old?",
+          "answer": {
+            "yes": {
+              "uuid":"e61c80d1-bc6e-4004-9196-bf869399b47e",
+              "question": "How is the child related to the sponsor?",
+              "answer": {
+                "natural born to sponsor": {
+                  "uuid":"11220a05-4848-4bda-b824-30905ed2169f",
+                  "question": "Was the child born in a marriage where the sponsor is a spouse?",
+                  "answer": {
+                    "yes": {
+                      "uuid":"15cb924d-b1b3-411c-940c-91255400d23f",
+                      "Eligible": "Yes",
+                      "case": "gc-citizen-child-marriage"
+                    },
+                    "no": {
+                      "uuid":"e04d9d51-634b-464b-8790-c642d99decd5",
+                      "Eligible": "Yes",
+                      "case": "gc-citizen-child-biological"
+                    }
+                  }
+                },
+                "step child": {
+                  "uuid":"8b073cbd-56fd-4bbb-b8d9-c5b97d3dda7f",
+                  "Eligible": "Yes",
+                  "case": "gc-citizen-child-step"
+                },
+                "adopted": {
+                  "uuid":"c1541a55-5640-4ec8-940d-13dc18638841",
+                  "Eligible": "Yes",
+                  "case": "gc-citizen-child-adopted"
+                }
+              }
+            },
+            "no": {
+              "uuid":"be301003-786b-4032-8752-a3292fa4a143",
+              "Eligible": "Yes",
+              "case": "gc-citizen-child"
+            }
+          }
+        },
+        "brother / sister": {
+          "uuid":"b12a4b1c-5407-477e-9cfd-21a4d1aabb77",
+          "Eligible": "Yes",
+          "case": "gc-citizen-sib"
+        },
+        "mother / father": {
+          "uuid":"3439a686-f34b-4efd-8f2f-d5b1dc02bdf5",
+          "question": "Is the sponsor over 21 years old ?",
+          "answer": {
+            "yes": {
+              "uuid":"3edfc5b9-70f6-4d9c-a787-581b0e90b349",
+              "Eligible": "Yes",
+              "case": "gc-citizen-parent"
+            },
+            "no":{
+              "uuid":"fd83e0c4-6031-4efa-84b2-d5ce47b73c90",
+              "Eligible":"No"
+            }
+          }
+        },
+        "fiance / fiancee": {
+          "uuid":"3539ec1c-cc95-4ca8-9468-6280788e5d6f",
+          "Eligible": "Yes",
+          "case": "gc-citizen-fiance"
+        },
+        "other": {
+          "uuid":"53d61721-104e-4172-9c60-61fbf77015ec",
+          "Eligible":"No"
+        }
+      }
+    },
+    "permanent resident": {
+      "uuid":"bd45fc52-9a38-4d94-a59f-440a24e3b4cd",
+      "question": "How is the beneficiary related to the sponsor?",
+      "answer": {
+        "husband / wife": {
+          "uuid":"ad8171a0-b959-4f87-bac0-ad01218e817a",
+          "Eligible": "Yes",
+          "case": "gc-pr-spouse"
+        },
+        "son / daughter": {
+          "uuid":"d8cb2d16-65d4-450d-8f9a-5ea51fec5537",
+          "question": "Is the child married ?",
+          "answer": {
+            "yes": {
+              "uuid":"70749b8c-bd6f-46da-bc31-1eafe06d956b",
+              "Eligible":"No"
+            },
+            "no": {
+              "uuid":"5da11946-fd93-435c-a401-4e49a92fc201",
+              "Eligible": "Yes",
+              "case": "gc-pr-child"
+            }
+          }
+        },
+        "other":{
+          "uuid":"c970a2e6-8ff9-47a3-b294-ef5394126bbb",
+          "Eligible":"No"
+        }
+      }
+    },
+    "other": {
+      "uuid":"5a43d8c5-876e-47a7-a878-28ae1eabf74b",
+      "Eligible":"No"
+    }
+  }
+}
